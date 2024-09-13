@@ -63,8 +63,8 @@ The backend API will be available at `http://localhost:5000`.
   Body:  
   ```json
   {
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Ashish Kumar",
+    "email": "ashish@gmail.com",
     "password": "password123"
   }
   ```
@@ -74,7 +74,7 @@ The backend API will be available at `http://localhost:5000`.
   Body:  
   ```json
   {
-    "email": "john@example.com",
+    "email": "ashish@gmail.com",
     "password": "password123"
   }
   ```
